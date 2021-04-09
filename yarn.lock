@@ -3263,9 +3263,10 @@ jest-mock-console@^0.4.2:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/jest-mock-console/-/jest-mock-console-0.4.2.tgz#6caf471a66cdb88222ae09a4520af192176765f6"
 
-jest-mock-process@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/jest-mock-process/-/jest-mock-process-1.2.0.tgz#8ac1818cb8aad05164b1f955036849369ee580d4"
+jest-mock-process@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/jest-mock-process/-/jest-mock-process-1.4.0.tgz#7031384115a2d678ee54761356cfcfdc2a34e493"
+  integrity sha512-3LM1TyEaRKRjh/x9rZPmuy28r7q8cgNkHYcrPWtxXT3ZzPPS+bKNs2ysb8BJPVB41X5yM1sMtatvE5z2XJ0S/w==
 
 jest-mock@^26.6.2:
   version "26.6.2"
